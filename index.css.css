@@ -1,0 +1,264 @@
+*{
+    margin:0;
+}
+body{
+    width:100%;
+    height:1970px;
+    background-color:gray;
+}
+.header{
+    width:100%;
+    height:100px;
+    background-color:black;
+    display:flex;
+    justify-content:space-around;
+}
+.content{
+    width:100%;
+    height:450px;
+    background-color:olive;
+    display:flex;
+}
+.container{
+    width:100%;
+    height:1350px;
+    background-color:aquamarine;
+}
+.kaki{
+    width:100%;
+    height:70px;
+    background-color:black;
+}
+#kiri-header{
+    width:50%;
+    height:100px;
+    background-color:black;
+}
+#kanan-header{
+    width:50%;
+    height:100px;
+    background-color:black;
+}
+#nama{
+    color:white;
+    padding-top:29px;
+    padding-left:9px;
+}
+#tombol{
+    width:12%;
+    height:30px;
+    background-color:white;
+    margin-top:34px;
+    margin-left:85%;
+}
+#aa{
+    text-align:center;
+    padding-top:6px;
+}
+#foto-content{
+    width:50%;
+    height:450px;
+    background-color:white;
+}
+#isi-content{
+    width:50%;
+    height:450px;
+    background-color:white;
+}
+#foto{
+    width:25%;
+    height:350px;
+    background-color:white;
+    margin-top:45px;
+    margin-left:70%;
+}
+#pio{
+    width:100%;
+    height:350px;
+}
+#bungkus-bb{
+    width:20%;
+    height:40px;
+    background-color:white;
+    margin-top:10%;
+    margin-left:20%;
+}
+#bb{
+    color:black;
+    text-align:center;
+}
+#tombol-saya{
+    width:20%;
+    height:30px;
+    margin-top:3%;
+    margin-left:20%;
+    background-color:black;
+}
+#ket{
+    color:white;
+    text-align:center;
+    padding-top:3%;
+}
+#cont-1{
+    width:100%;
+    height:500px;
+    background-color:darkslategrey;
+    display:flex;
+}
+#cont-2{
+    width:100%;
+    height:500px;
+    background-color:darkolivegreen;
+    display:flex;
+}
+#cont-3{
+    width:100%;
+    height:350px;
+    background-color:white;
+}
+#kiri-1{
+    width:45%;
+    height:500px;
+    background-color:white;
+}
+#kanan-1{
+    width:55%;
+    height:500px;
+    background-color:white;
+}
+#isi-1{
+    width:23%;
+    height:400px;
+    background-color:green;
+    margin-top:6%;
+    margin-left:75%;
+}
+#zz{
+    width:100%;
+    height:400px;
+}
+#isi-kanan{
+    width:40%;
+    height:400px;
+    background-color:darkblue;
+    margin-top:5%;
+}
+#yy{
+    width:100%;
+    height:400px;
+}
+#kiri-2{
+    width:60%;
+    height:500px;
+    background-color:white;
+}
+#kanan-2{
+    width:40%;
+    height:500px;
+    background-color:white;
+}
+#isi-2{
+    width:45%;
+    height:450px;
+    background-color:green;
+    margin-top:2%;
+    margin-left:53%;
+}
+#xx{
+    width:100%;
+    height:450px;
+}
+#isi-kanan-2{
+    width:35%;
+    height:450px;
+    background-color:green;
+    margin-top:3%;
+}
+#ww{
+    width:100%;
+    height:450px;
+}
+#atas-3{
+    width:100%;
+    height:55px;
+    background-color:black;
+    margin:auto;
+}
+#badan-3{
+    width:55%;
+    height:295px;
+    background-color:white;
+    margin:auto;
+    display:flex;
+    justify-content:space-around;
+}
+.anak-3{
+    width:30%;
+    height:190px;
+    background-color:white;
+    margin-top:8%;
+}
+.bulat{
+    width:80%;
+    height:180px;
+    background-color:green;
+    margin:auto;
+    border-top-left-radius:50%;
+    border-bottom-left-radius:50%;
+    border-bottom-right-radius:50%;
+    border-top-right-radius:50%;
+}
+.gbr-3{
+    width:100%;
+    height:180px;
+    border-top-left-radius:50%;
+    border-bottom-left-radius:50%;
+    border-bottom-right-radius:50%;
+    border-top-right-radius:50%;
+}
+.txt{
+    text-align:center;
+    color:black;
+}
+#kopi{
+    color: white;
+    text-align: center;
+}
+#rorr{
+    color: white;
+    text-align: center;
+}
+#hehe{
+    color: white;
+    text-align: center;
+    padding-top: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
